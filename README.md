@@ -1,7 +1,7 @@
 # Social App Cool
-It's a social app web you can interact with our user !
-
-
+> It's a simple social app web you can interact with our users !
+> You can Regiter an account to get start 🐶.
+> Click to [_here_](social-app-cool.web.app) to check.
 
 
 
