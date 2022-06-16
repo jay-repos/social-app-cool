@@ -1,3 +1,10 @@
+# Social App Cool
+It's a social app web you can interact with our user !
+
+
+
+
+
 ```
 npm i semantic-ui-react semantic-ui-css --force
 ```
