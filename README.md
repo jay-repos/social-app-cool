@@ -1,10 +1,25 @@
 # Social App Cool
 > It's a simple social app web you can interact with our users !
 > Regiter an account to get start 🐶.
-> Click [_here_](https://social-app-cool.web.app).
 
 
+## Demo
+Here is a working live demo :  [_here_](https://social-app-cool.web.app)
 
+## Technologies Used
+- Tech 1 - version 1.0
+- Tech 2 - version 2.0
+- Tech 3 - version 3.0
+
+## Features
+List the ready features here:
+- Awesome feature 1
+- Awesome feature 2
+- Awesome feature 3
+
+## Screenshots
+
+## Setup
 ```
 npm i semantic-ui-react semantic-ui-css --force
 ```
@@ -46,3 +61,9 @@ firebase.initializeApp(firebaseConfig);
 
 export default firebase
 ```
+
+## Acknowledgements
+Give credit here.
+- This project was inspired by...
+- This project was based on [this tutorial](https://www.example.com).
+- Many thanks to...
