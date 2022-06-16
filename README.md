@@ -1,18 +1,23 @@
-npm i react-scripts react react-dom react-router-dom
+```
 npm i semantic-ui-react semantic-ui-css --force
-//beacause the modules reqiures react@17 and we are using react@18 here,
-//we we add "--force".
-//"import 'semantic-ui-css/semantic.min.css' "won't work here.
-//we add
-
+```
+beacause the modules reqiures react@17 and we are using react@18 here,we we add "--force".
+instead, "import 'semantic-ui-css/semantic.min.css' "won't work here.
+we add
+```
 <link
     async
     rel="stylesheet"
     href="https://cdn.jsdelivr.net/npm/semantic-ui@2/dist/semantic.min.css"
 />
-//to 'index.html' instead.
-npm i firebase
+```
+to 'index.html' to solve this problem.
+(ps. You can simply choose react@17)
 
+
+Add the code below to src/utils/firebase.js
+(you can get your firebaseConfig after seting your firebase project,
+and paste con config in this file.)
 ```javascript
 // Import the functions you need from the SDKs you need
 import firebase from "firebase/compat/app";
