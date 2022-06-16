@@ -2,7 +2,7 @@
 > It's a simple social app web you can interact with our users !
 > 
 > You can Regiter an account to get start 🐶.
-> Click [_here_](social-app-cool.web.app).
+> Click [_here_](https://social-app-cool.web.app).
 
 
 
