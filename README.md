@@ -38,7 +38,7 @@ npm i semantic-ui-react semantic-ui-css --force
 3. create a firebase project and enable servives include email authentication, firestore database, storage.
 Add the code below to src/utils/firebase.js
 (you can get your firebaseConfig after seting your firebase project,
-and paste con config in this file.)
+and paste your config in this file.)
 ```javascript
 // Import the functions you need from the SDKs you need
 import firebase from "firebase/compat/app";
