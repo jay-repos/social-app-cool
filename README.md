@@ -67,4 +67,4 @@ npm start
 
 ## Acknowledgements
 - This project was based on [this tutorial](https://www.youtube.com/watch?v=EwvFcFpZWio&list=PLddLA9QpG2T2__tPfi6nwaL8Rf_wWQaz7).
-- Many thanks to [React](https://zh-hant.reactjs.org/) [Firebase](https://firebase.google.com/) [Semantic UI React](https://react.semantic-ui.com/) [React Router](https://reactrouter.com/) and people share informations on internet!
+- Many thanks to | [React](https://zh-hant.reactjs.org/) | [Firebase](https://firebase.google.com/) | [Semantic UI React](https://react.semantic-ui.com/) |  [React Router](https://reactrouter.com/) | and people share informations on internet!
