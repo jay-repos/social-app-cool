@@ -2,6 +2,13 @@
 > It's a simple social app web you can interact with other users !
 > Regiter an account to get start 🐶.
 
+## Table of Contents
+* [Demo](#Demo)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Running on local](#running-on-local)
+* [Acknowledgements](#acknowledgements)
 
 ## Demo
 Here is a working live demo :  [_here_](https://social-app-cool.web.app)
@@ -38,8 +45,7 @@ Here is a working live demo :  [_here_](https://social-app-cool.web.app)
 ![](https://github.com/jay-repos/social-app-cool/blob/main/screenshots/edit.png)
 
 
-
-## Setup for local running
+## Running on local
 #### 1. Install node.js 
 #### 2. clone the repo and install dependencies.
 ```
