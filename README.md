@@ -7,15 +7,18 @@
 Here is a working live demo :  [_here_](https://social-app-cool.web.app)
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- [React](https://zh-hant.reactjs.org/) - a JavaScript library for building user interfaces.
+- [Firebase](https://firebase.google.com/) - a BaaS(Backend-as-a-Service) plaform, which has services like authentication, realtime database, storage and hosting for rapid full stack web development.
+- [Semantic UI React](https://react.semantic-ui.com/) - provides useful components for making site-styling easier.
+- [React Router](https://reactrouter.com/) - helps implementing clint-side routing.
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Regiter, Login and Logout with email.
+- Posting posts, leaving some comments under other's posts, and also liking or saving posts if you want. 
+- Modifying member information like name, photo and password.
+- Checking the posts you posted or saved.
+- Filtering posts via topics.
+- Infinite scrolling for loading new posts seamlessly.
 
 ## Screenshots
 
