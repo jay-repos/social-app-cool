@@ -21,6 +21,13 @@ Here is a working live demo :  [_here_](https://social-app-cool.web.app)
 - Infinite scrolling for loading new posts seamlessly.
 
 ## Screenshots
+### Regiter and error message
+![](https://github.com/jay-repos/social-app-cool/blob/main/screenshots/register.png)
+
+
+
+
+
 
 ## Setup for local running
 #### 1. Install node.js 
