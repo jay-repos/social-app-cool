@@ -13,7 +13,7 @@ Here is a working live demo :  [_here_](https://social-app-cool.web.app)
 - [React Router](https://reactrouter.com/) - helps implementing clint-side routing.
 
 ## Features
-- Regiter, Login and Logout with email.
+- Register, Login and Logout with email.
 - Posting posts, leaving some comments under other's posts, and also liking or saving posts if you want. 
 - Modifying member information like name, photo and password.
 - Checking the posts you posted or saved.
