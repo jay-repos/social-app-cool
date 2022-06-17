@@ -23,9 +23,19 @@ Here is a working live demo :  [_here_](https://social-app-cool.web.app)
 ## Screenshots
 ### Regiter and error message
 ![](https://github.com/jay-repos/social-app-cool/blob/main/screenshots/register.png)
-
-
-
+### All the posts
+![](https://github.com/jay-repos/social-app-cool/blob/main/screenshots/posts.png)
+### Posts selected by topics
+![](https://github.com/jay-repos/social-app-cool/blob/main/screenshots/filter.png)
+### A single post and comments
+![](https://github.com/jay-repos/social-app-cool/blob/main/screenshots/post.png)
+![](https://github.com/jay-repos/social-app-cool/blob/main/screenshots/comments.png)
+### Add a new post
+![](https://github.com/jay-repos/social-app-cool/blob/main/screenshots/newpost.png)
+### Member information
+![](https://github.com/jay-repos/social-app-cool/blob/main/screenshots/member.png)
+### Edit member info
+![](https://github.com/jay-repos/social-app-cool/blob/main/screenshots/edit.png)
 
 
 
