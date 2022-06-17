@@ -8,7 +8,7 @@ Here is a working live demo :  [_here_](https://social-app-cool.web.app)
 
 ## Technologies Used
 - [React](https://zh-hant.reactjs.org/) - a JavaScript library for building user interfaces.
-- [Firebase](https://firebase.google.com/) - a BaaS(Backend-as-a-Service) plaform, which has services like authentication, realtime database, storage and hosting for rapid full stack web development.
+- [Firebase](https://firebase.google.com/) - a BaaS(Backend-as-a-Service) plaform, which has services like Authentication, Firestore database, Storage and Hosting for rapid full stack web development.
 - [Semantic UI React](https://react.semantic-ui.com/) - provides useful components for making site-styling easier.
 - [React Router](https://reactrouter.com/) - helps implementing clint-side routing.
 
@@ -22,24 +22,20 @@ Here is a working live demo :  [_here_](https://social-app-cool.web.app)
 
 ## Screenshots
 
-## Setup
+## Setup for local running
+1. Install node.js
+2. clone the repo and install dependencies.
+```
+git clone https://github.com/jay-repos/social-app-cool social-app-cool
+cd social-app-cool
+npm install
+```
+beacause the semantic-ui modules reqiures react@17 and we are using react@18 here,we we add "--force".
+(ps. You can simply choose react@17)
 ```
 npm i semantic-ui-react semantic-ui-css --force
 ```
-beacause the modules reqiures react@17 and we are using react@18 here,we we add "--force".
-instead, "import 'semantic-ui-css/semantic.min.css' "won't work here.
-we add
-```
-<link
-    async
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/semantic-ui@2/dist/semantic.min.css"
-/>
-```
-to 'index.html' to solve this problem.
-(ps. You can simply choose react@17)
-
-
+3. create a firebase project and enable servives include email authentication, firestore database, storage.
 Add the code below to src/utils/firebase.js
 (you can get your firebaseConfig after seting your firebase project,
 and paste con config in this file.)
@@ -64,9 +60,11 @@ firebase.initializeApp(firebaseConfig);
 
 export default firebase
 ```
+4. start running
+```
+npm start
+```
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- This project was based on [this tutorial](https://www.youtube.com/watch?v=EwvFcFpZWio&list=PLddLA9QpG2T2__tPfi6nwaL8Rf_wWQaz7).
+- Many thanks to [React](https://zh-hant.reactjs.org/) [Firebase](https://firebase.google.com/) [Semantic UI React](https://react.semantic-ui.com/) [React Router](https://reactrouter.com/) and people share informations on internet!
