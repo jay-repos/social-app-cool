@@ -1,5 +1,5 @@
 # Social App Cool
-> It's a simple social app web you can interact with our users !
+> It's a simple social app web you can interact with other users !
 > Regiter an account to get start 🐶.
 
 
