@@ -23,8 +23,8 @@ Here is a working live demo :  [_here_](https://social-app-cool.web.app)
 ## Screenshots
 
 ## Setup for local running
-1. Install node.js
-2. clone the repo and install dependencies.
+#### 1. Install node.js 
+#### 2. clone the repo and install dependencies.
 ```
 git clone https://github.com/jay-repos/social-app-cool social-app-cool
 cd social-app-cool
@@ -35,7 +35,7 @@ beacause the semantic-ui modules reqiures react@17 and we are using react@18 her
 ```
 npm i semantic-ui-react semantic-ui-css --force
 ```
-3. create a firebase project and enable servives include email authentication, firestore database, storage.
+#### 3. create a firebase project and enable servives include email authentication, firestore database, storage.
 Add the code below to src/utils/firebase.js
 (you can get your firebaseConfig after seting your firebase project,
 and paste your config in this file.)
@@ -60,7 +60,7 @@ firebase.initializeApp(firebaseConfig);
 
 export default firebase
 ```
-4. start running
+#### 4. start running
 ```
 npm start
 ```
