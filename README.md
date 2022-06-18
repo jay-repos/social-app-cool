@@ -11,7 +11,7 @@
 * [Acknowledgements](#acknowledgements)
 
 ## Demo
-Here is a working live demo :  [_here_](https://social-app-cool.web.app)
+Here is a working live demo : [_here_](https://social-app-cool.web.app) 👀
 
 ## Technologies Used
 - [React](https://zh-hant.reactjs.org/) - a JavaScript library for building user interfaces.
